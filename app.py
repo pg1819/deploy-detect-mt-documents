@@ -1,10 +1,11 @@
 import os
+import warnings
 
 from flask import Flask, render_template, request, Response
 from main import detect
 
 app = Flask(__name__)
-
+warnings.filterwarnings("ignore")
 
 @app.route("/", methods=["GET", "POST"])
 def main():
