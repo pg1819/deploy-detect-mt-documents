@@ -4,7 +4,7 @@
 
 1. Go to the application folder
 ```
-cd detecting-mt-documents
+cd deploy-detect-mt-documents
 ```
 
 2. Create a virtual environment for the app
