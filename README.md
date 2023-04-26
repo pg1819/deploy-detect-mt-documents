@@ -1,4 +1,4 @@
-# detecting-mt-documents
+# deploy-detect-mt-documents
 
 ## Run web app locally:
 
