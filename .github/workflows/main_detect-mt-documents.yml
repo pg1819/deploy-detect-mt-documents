@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'detect-mt-documents'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A130FD5535454185992C9198789CB454 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8467D2DCECD64249A1B12BB8DC97BD43 }}
